@@ -1,7 +1,9 @@
 # meeting-room-backend
 meeting room manager system
 
-API with Spring Boot to manage meeting rooms, using Spring Data for data persistence and the H2 in-memory database. And the Front End that will consume this API will be a SPA written in Angular: [![REPOSITÓRIO](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/genilton2528/meeting-room-frontend)
+API with Spring Boot to manage meeting rooms, using Spring Data for data persistence and the H2 in-memory database. And the Front End that will consume this API will be a SPA written in Angular: 
+
+- [meeting-room-frontend](https://github.com/genilton2528/meeting-room-frontend)
 
 ## Requirements
 
